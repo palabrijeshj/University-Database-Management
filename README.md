@@ -2,7 +2,9 @@
 This project is a University Management System developed using PostgreSQL. It efficiently manages various operations within a university, including data entry, relationships between tables, and querying information. The system is designed to ensure proper database normalization, ensuring smooth and organized data flow.
 
 Key Features:
-Data Entry & Management: Handles the insertion of data into multiple tables while maintaining referential integrity between entities such as students, courses, faculty, departments, and more.
+
+Data Entry & Management:
+Handles the insertion of data into multiple tables while maintaining referential integrity between entities such as students, courses, faculty, departments, and more.
 Relationships: Manages one-to-many and many-to-many relationships, ensuring accurate representation of real-world university operations.
 Advanced Database Operations:
 Cursors: Used to process rows returned by queries in a controlled manner.
