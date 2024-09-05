@@ -1,5 +1,4 @@
 # University-Database-Management
-# University Management System
 
 This project is a University Management System built with PostgreSQL. It is designed to handle all the essential tasks of managing a university's data, from storing information to organizing relationships between different entities like students, courses, professors, mentors and departments and even  extra-curricular activitie clubs.
 
